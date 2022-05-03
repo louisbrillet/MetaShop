@@ -104,6 +104,9 @@ footer {
 	font-size:1.2em;
 	padding:2rem 5vw;
 }
+iframe{
+	background-color: white !important;
+}
 
 
 /*/ MEDIA QUERIES START HERE /*/
